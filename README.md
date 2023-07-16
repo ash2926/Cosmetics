@@ -1,7 +1,5 @@
 # Cosmetics Ingredient Analysis and Visualization
 
-![Cosmetics](cosmetics.jpg)
-
 This repository contains a project focused on analyzing and visualizing the ingredients of cosmetics products. The code utilizes t-SNE for dimension reduction, creating a scatter plot to visualize the similarity between cosmetic products based on their ingredients. The analysis is performed on a dataset containing information about various cosmetics products, including their ingredients, brand, price, and rank.
 
 ## Dataset
